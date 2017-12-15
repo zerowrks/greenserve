@@ -2979,7 +2979,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/octg-casing-and-tubing-1200x750-800x500.png",
                 "alt": "OCTG casing and tubing",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"octg-casing-tubing.html\" class=\"text-white\">OCTG Casing &amp; Tubing</a>&nbsp;",
+                "caption": "<a href=\"octg-casing-tubing.html\" class=\"text-white\">OCTG Casing &amp; Tubing -<b> Learn more</b></a>",
                 "active": false
               },
               {
@@ -2991,7 +2991,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/flanges-1200x750-800x500.png",
                 "alt": "Line pipes, piping, flanges, fittings, bolts & nuts, gaskets",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"pipes-fittings.html\" class=\"text-danger\">Line Pipes, Piping, Flanges, Fittings, Bolts &amp; Nuts, Gaskets</a>",
+                "caption": "<a href=\"pipes-fittings.html\" class=\"text-danger\">Line Pipes, Piping, Flanges, Fittings, Bolts &amp; Nuts, Gaskets</a><b>&nbsp;-&nbsp;Learn&nbsp;more</b>",
                 "active": false
               },
               {
@@ -3003,7 +3003,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/actuators-1200x750-800x500.png",
                 "alt": "Valves and actuators (subsea, offshore and onshore)",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"valves-actuators.html\" class=\"text-white\">Valves &amp; Actuators</a>",
+                "caption": "<a href=\"valves-actuators.html\" class=\"text-white\">Valves &amp; Actuators - <b>Learn more</b></a>",
                 "active": false
               },
               {
@@ -3015,7 +3015,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/instrumrntation-1200x750-800x500.png",
                 "alt": "Controls and instrumentation (subsea, offshore and onshore)",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"controls-instrumentation.html\" class=\"text-white\">Controls &amp; Instrumentation (Subsea, Offshore &amp; Onshore)</a>",
+                "caption": "<a href=\"controls-instrumentation.html\" class=\"text-white\">Controls &amp; Instrumentation (Subsea, Offshore &amp; Onshore) - <b>Learn more</b></a>",
                 "active": false
               },
               {
@@ -3027,7 +3027,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/compressor-turbines-1200x750-800x500.png",
                 "alt": "Compressors and turbines",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"compressors-turbines.html\" class=\"text-white\">Compressors &amp; Turbines</a>",
+                "caption": "<a href=\"compressors-turbines.html\" class=\"text-white\">Compressors &amp; Turbines - <b>Learn more</b></a>",
                 "active": false
               },
               {
@@ -3039,7 +3039,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/expansion-joints-1200x750-800x500.png",
                 "alt": "Expansion joints",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"expansion-joints.html\" class=\"text-white\">Expansion Joints</a>",
+                "caption": "<a href=\"expansion-joints.html\" class=\"text-white\">Expansion Joints - <b>Learn more</b></a>",
                 "active": true
               },
               {
@@ -3051,7 +3051,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pump-packages-1200x750-800x500.png",
                 "alt": "Pump packages",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"pump-packages.html\" class=\"text-white\">Pump Packages</a>",
+                "caption": "<a href=\"pump-packages.html\" class=\"text-white\">Pump Packages - <b>Learn more</b></a>",
                 "active": false
               },
               {
@@ -3063,7 +3063,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/subsea-equipment-1200x750-800x500.png",
                 "alt": "Subsea equipment",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"subsea-equipment.html\" class=\"text-white\">Subsea Equipment</a>",
+                "caption": "<a href=\"subsea-equipment.html\" class=\"text-white\">Subsea Equipment -<b>&nbsp;Learn more</b></a>",
                 "active": false
               },
               {
@@ -3075,7 +3075,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/static-and-process-equipment-1200x750-800x500.png",
                 "alt": "Static and process equipment",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"static-process-equipment.html\" class=\"text-white\">Static Process Equipment</a>",
+                "caption": "<a href=\"static-process-equipment.html\" class=\"text-white\">Static Process Equipment - <b>Learn more</b></a>",
                 "active": false
               },
               {
@@ -3087,7 +3087,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/spare-parts-1200x750-800x500.png",
                 "alt": "spare parts",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"mechanical-spare-parts.html\" class=\"text-white\">Mechanical Spare Parts</a>",
+                "caption": "<a href=\"mechanical-spare-parts.html\" class=\"text-white\">Mechanical Spare Parts - <b>Learn more</b></a>",
                 "active": false
               }
             ]
