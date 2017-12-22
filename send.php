@@ -1,7 +1,7 @@
 <?php 
 if(isset($_POST['submit']) && ($_POST['submit']=='Send')):	
 	$name=trim($_POST['name'],"  ");
-	$to="jacobvee@gmail.com";
+	$to="jacbovee@gmail.com";
 	$email = trim($_POST['email'],"  ");
 	$product_code = trim($_POST['product'],"  ");
 	$subject= trim($_POST['subject'],"  ");
@@ -27,7 +27,7 @@ if(isset($_POST['submit']) && ($_POST['submit']=='Send')):
 
 	$headers = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'From: <jacobvee@gmail.com>' . "\r\n";
+	$headers .= 'From: <aka.sharko@gmail.com>' . "\r\n";
 
 	
 	$alert = mail($to,$subject,$message,$headers);
@@ -46,7 +46,7 @@ if(isset($_POST['submit']) && ($_POST['submit']=='Send')):
     $message = '<!DOCTYPE HTML>'.
 '<head>'.
 '<meta http-equiv="content-type" content="text/html">'.
-'<title>Email Notification</title>'.
+'<title>Website Enquiry</title>'.
 '</head>'.
 '<body>'.
 '<div id="outer" style="width: 80%;margin: 0 auto;margin-top: 10px;">'. 
@@ -63,7 +63,7 @@ if(isset($_POST['submit']) && ($_POST['submit']=='Send')):
 
 	$headers = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	$headers .= 'From: <jacobvee@gmail.com>' . "\r\n";
+	$headers .= 'From: <aka.sharko@gmail.com>' . "\r\n";
 
 	
 	$alert = mail($to,$subject,$message,$headers);
