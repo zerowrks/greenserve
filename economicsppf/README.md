@@ -1,2 +1,0 @@
-# greenserve
-GitHub Pages
