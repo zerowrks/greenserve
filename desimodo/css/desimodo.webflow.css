@@ -243,8 +243,12 @@ a {
 }
 
 .dropdown-link.w--current {
-  color: #fff;
+  color: grey;
   font-weight: 400;
+}
+
+.dropdown-link.w--current:active {
+  color: grey;
 }
 
 .div-block-6 {
@@ -709,8 +713,8 @@ a {
 .product-section {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/office-furniture-banner.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/office-furniture-banner.jpg');
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/space-planning.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/space-planning.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -769,6 +773,7 @@ a {
   padding-left: 10px;
   font-family: Montserrat, sans-serif;
   font-size: 14px;
+  line-height: 26px;
   font-weight: 300;
 }
 
@@ -794,12 +799,13 @@ a {
 }
 
 .product-header {
+  padding-top: 10px;
   padding-right: 10px;
   padding-left: 10px;
   font-family: Montserrat, sans-serif;
   font-size: 14px;
   font-weight: 300;
-  text-align: center;
+  text-align: left;
 }
 
 .product-listing-div {
@@ -815,9 +821,9 @@ a {
   margin-left: auto;
 }
 
-.div-block-14 {
-  margin: 34px 20px;
-  padding-top: 10px;
+.product-block {
+  margin-right: 20px;
+  margin-left: 20px;
   padding-bottom: 10px;
   background-image: -webkit-linear-gradient(270deg, #fff, #fff);
   background-image: linear-gradient(180deg, #fff, #fff);
@@ -846,7 +852,74 @@ a {
   font-size: 28px;
   font-style: italic;
   font-weight: 400;
-  text-align: left;
+  text-align: center;
+}
+
+.really-short-gold-divider {
+  display: block;
+  width: 130px;
+  max-height: 198px;
+  margin: -10px auto 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  border-width: 2px;
+  border-color: #c3b59b;
+  border-bottom-style: solid;
+}
+
+.product-section-others {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/space-planning.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/space-planning.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.product-section-canteen {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/canteen.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/canteen.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.product-section-camp {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/camp.jpeg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/camp.jpeg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.product-section-storage {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/storage.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/storage.png');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.product-section-staff {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/staff-acc3.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/staff-acc3.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.product-section-office {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/office-furniture-banner.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/office-furniture-banner.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
 }
 
 @media (max-width: 991px) {
